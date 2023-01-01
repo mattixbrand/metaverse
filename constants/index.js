@@ -77,7 +77,7 @@ export const socials = [
   {
     name: 'linkedin',
     url: '/linkedin.svg',
-    href: 'https://linkedin.com/austinmattix11',
+    href: 'https://www.linkedin.com/company/mattixes/',
   },
   {
     name: 'instagram',
@@ -87,6 +87,6 @@ export const socials = [
   {
     name: 'facebook',
     url: '/facebook.svg',
-    href: 'https://facebook.com/mattixes_team',
+    href: 'https://facebook.com/mattixes',
   },
 ];
